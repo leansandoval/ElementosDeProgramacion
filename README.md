@@ -119,36 +119,36 @@ Aprendizaje a lograr: Capacitación necesaria para desarrollar programas que uti
 
 `Objetivo`: Aprender a definir y utilizar las estructuras de datos en forma similar a los arrays, salvando sus diferencias.
 
-a. Definición de las estructuras como nuevo tipo de datos. Campos.
-b. Procesamiento. Tipos de datos definidos por el usuario. struct (...)
-c. Longitud de las estructuras. Estructuras anidadas. Procesamiento.
-d. Las estructuras como parámetros de funciones.
-e. Arrays de estructuras. Concepto de uniones. Almacenamientos temporarios.
-f. PRÁCTICA: Confección de programas y funciones que definen y utilizan structuras. Generación de arrays de estructuras y su operatividad.
+ 1. Definición de las estructuras como nuevo tipo de datos. Campos.
+ 2. Procesamiento. Tipos de datos definidos por el usuario. struct (...)
+ 3. Longitud de las estructuras. Estructuras anidadas. Procesamiento.
+ 4. Las estructuras como parámetros de funciones.
+ 5. Arrays de estructuras. Concepto de uniones. Almacenamientos temporarios.
+ 6. PRÁCTICA: Confección de programas y funciones que definen y utilizan structuras. Generación de arrays de estructuras y su operatividad.
 
 `Aprendizaje a lograr`: Capacitación necesaria para desarrollar programas que utilizan estructuras de datos. Aprender a utilizar las estructuras como almacenamiento temporario de datos. Utilización en las funciones.
 
 ## Unidad X – Archivos
 
-Objetivo: Aprender a definir y utilizar los archivos de datos como medio de almacenamiento permanente de la información. Conocer los diferentes tipos. Aprender a guardar información y recuperarla. Métodos diversos.
+`Objetivo`: Aprender a definir y utilizar los archivos de datos como medio de almacenamiento permanente de la información. Conocer los diferentes tipos. Aprender a guardar información y recuperarla. Métodos diversos.
 
-a. Conceptos generales sobre archivos en “C”. Tipos permitidos, de texto y binarios
-b. Definición, creación, lectura y grabación. en archivos binarios secuenciales.
-c. Funciones standard para su operatoria. Generación del nombre de los archivos.
-d. Archivos como parámetros de funciones.
-e. Métodos de búsqueda de información en un archivo binario.
-f. PRÁCTICA: Confección de programas y funciones que generan y utilizan archivos binarios. Recupero de información. Tamaño y límite de los archivos.
+ 1. Conceptos generales sobre archivos en “C”. Tipos permitidos, de texto y binarios
+ 2. Definición, creación, lectura y grabación. en archivos binarios secuenciales.
+ 3. Funciones standard para su operatoria. Generación del nombre de los archivos.
+ 4. Archivos como parámetros de funciones.
+ 5. Métodos de búsqueda de información en un archivo binario.
+ 6. PRÁCTICA: Confección de programas y funciones que generan y utilizan archivos binarios. Recupero de información. Tamaño y límite de los archivos.
 
-*Aprendizaje a lograr*: Capacitación necesaria para desarrollar programas que utilizan búsqueda archivos binarios, utilizando diversos métodos de generación y de la información. Identificación de los archivos dentro del computador. Directorios.
+`Aprendizaje a lograr`: Capacitación necesaria para desarrollar programas que utilizan búsqueda archivos binarios, utilizando diversos métodos de generación y de la información. Identificación de los archivos dentro del computador. Directorios.
 
 ## Unidad XI - Uso de Archivos - Corte de Control
 
-Objetivo: Aprender manejo integral de información para su correcto almacenamiento. Agregar Borrar, Modificar registros. Corte de Control.
+`Objetivo`: Aprender manejo integral de información para su correcto almacenamiento. Agregar Borrar, Modificar registros. Corte de Control.
 
-a. Comandos relacionados con archivos.
-b. Búsqueda de datos y relación de campos.
-c. Corte de Control, Niveles de Cortes.
-d. Características de la Información.
-e. PRACTICA: Confección de programas y practica de manejo de archivos utilizando Corte de Control.
+ 1. Comandos relacionados con archivos.
+ 2. Búsqueda de datos y relación de campos.
+ 3. Corte de Control, Niveles de Cortes.
+ 4. Características de la Información.
+ 5. PRACTICA: Confección de programas y practica de manejo de archivos utilizando Corte de Control.
 
-*Aprendizaje a lograr*: Apertura y almacenamiento de archivos, presentar informas y acumuladores con use de corte de control.
+`Aprendizaje a lograr`: Apertura y almacenamiento de archivos, presentar informas y acumuladores con use de corte de control.
