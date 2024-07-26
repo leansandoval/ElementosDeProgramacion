@@ -5,7 +5,7 @@ Ejercicios resueltos en C de la materia Elementos de Programacion (2009). Realiz
 
 Introducir al alumno en la programación de las computadoras.
 
- a. Descripción general del principio de funcionamiento de un computador digital.
+ 1. Descripción general del principio de funcionamiento de un computador digital.
  * Unidades componentes y sus características. Hardware y software.
  * Sistemas de numeración binario y hexadecimal.
  * Concepto de programa. Ejemplos de aplicación y ejecución.
