@@ -46,12 +46,12 @@ Ejercicios resueltos en C de la materia Elementos de Programacion (2009). Realiz
 
 **Objetivo**: Conocer y aplicar los conceptos de contador y acumulador. Conocer y aplicar las Funciones de Biblioteca ó Standard del “C”. Aplicación y alcance de las estructuras de concatenación.
 
-a. Conceptos de contador y acumulador. Autoincremento.
-b. Funciones standard del “C” , diversos tipos.
-c. Combinación de operadores.
-d. Casos típicos de error en ciertas operaciones. Errores de almacenamiento.
-e. Sentencias de comentario. Estilo en la programación.
-f. PRÁCTICA: Confección de programas utilizando las funciones de biblioteca. Pruebas de exceso de almacenamiento. Errores posibles en ciertas funciones.
+ 1. Conceptos de contador y acumulador. Autoincremento.
+ 2. Funciones standard del “C” , diversos tipos.
+ 3. Combinación de operadores.
+ 4. Casos típicos de error en ciertas operaciones. Errores de almacenamiento.
+ 5. Sentencias de comentario. Estilo en la programación.
+ 6. PRÁCTICA: Confección de programas utilizando las funciones de biblioteca. Pruebas de exceso de almacenamiento. Errores posibles en ciertas funciones.
 
 **Aprendizaje a lograr**: Estar capacitado para desarrollar programas en lenguaje C utilizando las funciones de biblioteca. Estudio y corrección de errores.
 
@@ -59,13 +59,13 @@ f. PRÁCTICA: Confección de programas utilizando las funciones de biblioteca. P
 
 **Objetivo**: Conocer y aplicar las estructuras de selección simple y de selección múltiple. Poder aplicar estas estructuras y sus combinaciones en la solución de los problemas y su posterior codificación en lenguaje C. Conocer y aplicar los operadores lógicos.
 
-a. Sentencia de selección simple, if.(...). Sentencias anidadas. Operador condicional.
-b. Casos particulares en la combinación de las estructuras.
-c. Operadores lógicos. Prioridades y combinación. Reducción de los programas.
-d. Estructura de selección múltiple switch(...). Utilización de caracteres.
-e. Sentencia break., importancia de su utilización.
-f. Confección de programas. Juegos de prueba. Comprobación de resultados.
-g. PRÁCTICA: Confección de programas utilizando las sentencias mencionadas. Codificación. Confección de completos juegos de prueba. Pruebas de escritorio. Comprobación practica de los casos mencionados precedentemente.
+ 1. Sentencia de selección simple, if.(...). Sentencias anidadas. Operador condicional.
+ 2. Casos particulares en la combinación de las estructuras.
+ 3. Operadores lógicos. Prioridades y combinación. Reducción de los programas.
+ 4. Estructura de selección múltiple switch(...). Utilización de caracteres.
+ 5. Sentencia break., importancia de su utilización.
+ 6. Confección de programas. Juegos de prueba. Comprobación de resultados.
+ 7. PRÁCTICA: Confección de programas utilizando las sentencias mencionadas. Codificación. Confección de completos juegos de prueba. Pruebas de escritorio. Comprobación practica de los casos mencionados precedentemente.
 
 **Aprendizaje a lograr**: Estar capacitado para desarrollar programas en lenguaje C utilizando las estructuras de selección simple y múltiple, con todas sus variantes. Seguimiento de programas con los juegos de prueba. Análisis de variantes.
 
@@ -73,14 +73,14 @@ g. PRÁCTICA: Confección de programas utilizando las sentencias mencionadas. Co
 
 **Objetivo**: Adquirir la capacidad para aplicar en la solución de los problemas las estructuras iterativas, en sus variantes. Poder programar algoritmos de búsqueda de máximos y mínimos. Aprender el uso de la pantalla graficando caracteres.
 
-a. El concepto de ciclo. La sentencia de iteración definida for(...)
-b. Variantes en la utilización de los parámetros del for(...). Casos particulares.
-c. Ciclos anidados. Poder de iteración y sus variantes.
-d. Sentencia de iteración condicionada. Sentencias while(...) y do while(…). Comparación entre ambas. Ciclos 0-n y 1-n.
-e. Estructuras de iteración combinadas, sus ventajas.
-f.  Sentencias “continue” . Sentencia “exit”.
-g. Graficación en la pantalla utilizando caracteres. Sentencias gotoxy(...) y windows(...). Otras funciones que facilitan la operatividad de las ventanas.
-h. PRÁCTICA: Confección de programas utilizando las sentencias de iteración. Prueba de programas con utilización práctica de ventanas. Facilitar el diálogo con los usuarios de los programas. Pruebas de aplicación directa.
+ 1. El concepto de ciclo. La sentencia de iteración definida for(...)
+ 2. Variantes en la utilización de los parámetros del for(...). Casos particulares.
+ 3. Ciclos anidados. Poder de iteración y sus variantes.
+ 4. Sentencia de iteración condicionada. Sentencias while(...) y do while(…). Comparación entre ambas. Ciclos 0-n y 1-n.
+ 5. Estructuras de iteración combinadas, sus ventajas.
+ 6. Sentencias “continue” . Sentencia “exit”.
+ 7. Graficación en la pantalla utilizando caracteres. Sentencias gotoxy(...) y windows(...). Otras funciones que facilitan la operatividad de las ventanas.
+ 8. PRÁCTICA: Confección de programas utilizando las sentencias de iteración. Prueba de programas con utilización práctica de ventanas. Facilitar el diálogo con los usuarios de los programas. Pruebas de aplicación directa.
 
 **Aprendizaje a lograr**: Estar capacitado para desarrollar programas en lenguaje C utilizando las estructuras iterativas en todas sus variantes. Manejo sencillo de las ventanas. Ventajas. Seguimiento de programas con los juegos de prueba.
 
@@ -88,34 +88,34 @@ h. PRÁCTICA: Confección de programas utilizando las sentencias de iteración. 
 
 **Objetivo**: Aprender a dividir los programas en partes menores, que llamaremos “funciones”. Adquirir la capacidad para poder construir programas mayores en base a la construcción y utilización de funciones. Funciones preprogramadas.
 
-a. Los subprogramas. Las funciones en C. Forma general.
-b. Declaración, prototipos y definición. Estructura y codificación.
-c. Variables globales y locales. Llamadas a una función.
-d. Declaración de parámetros. Parámetros formales y reales. Sentencia return.
-e. Llamada a funciones, argumentos. Parámetros por valor y por variable.
-f. Diagramas sintácticos.
-g. Los punteros, definición y utilización como parámetros de funciones.
-h. Reglas de ámbito. Variables externas. Algunas funciones standard Concepto de recursividad. Aplicaciones.
-i. PRÁCTICA: Confección de funciones con y sin parámetros. Inclusión de funciones pre programadas. Aplicación en el diseño y modularización de los programas. Usar funciones recursivas. 
+ 1. Los subprogramas. Las funciones en C. Forma general.
+ 2. Declaración, prototipos y definición. Estructura y codificación.
+ 3. Variables globales y locales. Llamadas a una función.
+ 4. Declaración de parámetros. Parámetros formales y reales. Sentencia return.
+ 5. Llamada a funciones, argumentos. Parámetros por valor y por variable.
+ 6. Diagramas sintácticos.
+ 7. Los punteros, definición y utilización como parámetros de funciones.
+ 8. Reglas de ámbito. Variables externas. Algunas funciones standard Concepto de recursividad. Aplicaciones.
+ 9. PRÁCTICA: Confección de funciones con y sin parámetros. Inclusión de funciones pre programadas. Aplicación en el diseño y modularización de los programas. Usar funciones recursivas. 
 
 **Aprendizaje a lograr**: Capacitación necesaria para desarrollar programas en lenguaje C definiendo, confeccionando y utilizando funciones con diversos tipos de parámetros. Utilizar funciones pre programadas.
 
-## Unidad VIII – Datos Estructurados – Arrays
+## Unidad VIII - Datos Estructurados - Arrays
 
 **Objetivo**: Aprender a utilizar en los programas datos con estructura como son los vectores y las matrices. Familiarizarse con la utilización de tablas, búsquedas y ordenamiento. Comprender la ventaja de su utilización, cadena de caracteres y funciones adecuadas para procesamiento de caracteres.
 
-a. Conceptos básicos sobre estructuras de datos tipo array. Declaración.
-b. Arrays unidimensionales, los vectores. Inicialización. Comprobación de límites.
-c. Arrays multidimensionales, tablas y matrices.
-d. Los arrays como parámetros de funciones.
-e. Operaciones de ordenamiento y búsqueda en arrays. Distintos métodos.
-f. Representación de los strings por cadenas de caracteres, conceptos.
-g. Funciones standard para manejo de cadenas : strlen(...),strcpy(...), strcat(...), strcmp(...). Uso de null
-h. PRÁCTICA: Confección de programas que ingresan o exhiben datos con estructura tipo arrays. Aplicación de los algoritmos de ordenamiento y búsqueda. Creación de funciones que reciben arrays, su utilización, funciones con cadenas.
+ 1. Conceptos básicos sobre estructuras de datos tipo array. Declaración.
+ 2. Arrays unidimensionales, los vectores. Inicialización. Comprobación de límites.
+ 3. Arrays multidimensionales, tablas y matrices.
+ 4. Los arrays como parámetros de funciones.
+ 5. Operaciones de ordenamiento y búsqueda en arrays. Distintos métodos.
+ 6. Representación de los strings por cadenas de caracteres, conceptos.
+ 7. Funciones standard para manejo de cadenas : strlen(...),strcpy(...), strcat(...), strcmp(...). Uso de null
+ 8. PRÁCTICA: Confección de programas que ingresan o exhiben datos con estructura tipo arrays. Aplicación de los algoritmos de ordenamiento y búsqueda. Creación de funciones que reciben arrays, su utilización, funciones con cadenas.
 
 **Aprendizaje a lograr**: Capacitación necesaria para desarrollar programas que utilizan datos estructurados. Práctica en la utilización de los algoritmos básicos que usan arrays. Utilización de funciones que operan sobre arrays.
 
-## Unidad IX – Estructuras de Datos
+## Unidad IX - Estructuras de Datos
 
 **Objetivo**: Aprender a definir y utilizar las estructuras de datos en forma similar a los arrays, salvando sus diferencias.
 
@@ -128,7 +128,7 @@ h. PRÁCTICA: Confección de programas que ingresan o exhiben datos con estructu
 
 **Aprendizaje a lograr**: Capacitación necesaria para desarrollar programas que utilizan estructuras de datos. Aprender a utilizar las estructuras como almacenamiento temporario de datos. Utilización en las funciones.
 
-## Unidad X – Archivos
+## Unidad X - Archivos
 
 **Objetivo**: Aprender a definir y utilizar los archivos de datos como medio de almacenamiento permanente de la información. Conocer los diferentes tipos. Aprender a guardar información y recuperarla. Métodos diversos.
 
