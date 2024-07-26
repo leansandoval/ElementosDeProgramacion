@@ -5,11 +5,11 @@ Ejercicios resueltos en C de la materia Elementos de Programacion (2009). Realiz
 
 Introducir al alumno en la programación de las computadoras.
 
-  a. Descripción general del principio de funcionamiento de un computador digital.
-  b. Unidades componentes y sus características. Hardware y software.
-  c. Sistemas de numeración binario y hexadecimal.
-  d. Concepto de programa. Ejemplos de aplicación y ejecución.
-  e. PRÁCTICA: Desarrollo de un sencillo programa. Sistemas de numeración.
+a. Descripción general del principio de funcionamiento de un computador digital.
+b. Unidades componentes y sus características. Hardware y software.
+c. Sistemas de numeración binario y hexadecimal.
+d. Concepto de programa. Ejemplos de aplicación y ejecución.
+e. PRÁCTICA: Desarrollo de un sencillo programa. Sistemas de numeración.
 
 Aprendizaje a lograr: Concepto de programa y sus objetivos. Identificar las unidades del computador a usar en la programación.: Memorias y almacenamiento de programas.
 
