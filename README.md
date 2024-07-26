@@ -1,9 +1,9 @@
 # Elementos de Programación
 Ejercicios resueltos en C de la materia Elementos de Programacion (2009). Realizados en el Primer Cuatrimestre 2020.
 
-## UNIDAD I – INTRODUCCIÓN GENERAL A LA PROGRAMACION Objetivo:
+## Unidad I - Introducción General a la Programación
 
-Introducir al alumno en la programación de las computadoras.
+Objetivo: Introducir al alumno en la programación de las computadoras.
 
  1. Descripción general del principio de funcionamiento de un computador digital.
  2. Unidades componentes y sus características. Hardware y software.
@@ -13,7 +13,7 @@ Introducir al alumno en la programación de las computadoras.
 
 *Aprendizaje a lograr*: Concepto de programa y sus objetivos. Identificar las unidades del computador a usar en la programación.: Memorias y almacenamiento de programas.
 
-## UNIDAD II - INTERPRETACION DE PROBLEMAS – DIAGRAMACION ESTRUCTURADA - ESTRATEGIAS 
+## Unidad II - Interpretación de Problemas - Diagramación Estructurada - Estrategias
 
 Objetivo: Aprender a efectuar un análisis de los problemas y elaborar la estrategia más adecuada para su resolución. Poder diferenciar los distintos tipos de problemas.
 
@@ -27,7 +27,7 @@ Objetivo: Aprender a efectuar un análisis de los problemas y elaborar la estrat
 
 *Aprendizaje a lograr*: Confeccionar los diagramas de lógica de sencillos problemas de aplicación utilizando las estructuras básicas. Juego de prueba y análisis de resultados.
 
-## UNIDAD III – ELEMENTOS BÁSICOS DEL LENGUAJE “C”
+## Unidad III - Elementos Básicos del Lenguaje “C”
 
 Objetivo: Conocer los elementos básicos de un lenguaje de programación. Enseñar a confeccionar sencillos programas, codificando diagramas. Utilización de las sentencias básicas en la resolución de nuevos problemas. 
 
@@ -115,9 +115,9 @@ h. PRÁCTICA: Confección de programas que ingresan o exhiben datos con estructu
 
 Aprendizaje a lograr: Capacitación necesaria para desarrollar programas que utilizan datos estructurados. Práctica en la utilización de los algoritmos básicos que usan arrays. Utilización de funciones que operan sobre arrays.
 
-## UNIDAD IX – LAS ESTRUCTURAS DE DATOS
+## Unidad IX – Estructuras de Datos
 
-Objetivo: Aprender a definir y utilizar las estructuras de datos en forma similar a los arrays, salvando sus diferencias.
+`Objetivo`: Aprender a definir y utilizar las estructuras de datos en forma similar a los arrays, salvando sus diferencias.
 
 a. Definición de las estructuras como nuevo tipo de datos. Campos.
 b. Procesamiento. Tipos de datos definidos por el usuario. struct (...)
@@ -126,9 +126,9 @@ d. Las estructuras como parámetros de funciones.
 e. Arrays de estructuras. Concepto de uniones. Almacenamientos temporarios.
 f. PRÁCTICA: Confección de programas y funciones que definen y utilizan structuras. Generación de arrays de estructuras y su operatividad.
 
-Aprendizaje a lograr: Capacitación necesaria para desarrollar programas que utilizan estructuras de datos. Aprender a utilizar las estructuras como almacenamiento temporario de datos. Utilización en las funciones.
+`Aprendizaje a lograr`: Capacitación necesaria para desarrollar programas que utilizan estructuras de datos. Aprender a utilizar las estructuras como almacenamiento temporario de datos. Utilización en las funciones.
 
-## UNIDAD X – LOS ARCHIVOS
+## Unidad X – Archivos
 
 Objetivo: Aprender a definir y utilizar los archivos de datos como medio de almacenamiento permanente de la información. Conocer los diferentes tipos. Aprender a guardar información y recuperarla. Métodos diversos.
 
@@ -139,15 +139,16 @@ d. Archivos como parámetros de funciones.
 e. Métodos de búsqueda de información en un archivo binario.
 f. PRÁCTICA: Confección de programas y funciones que generan y utilizan archivos binarios. Recupero de información. Tamaño y límite de los archivos.
 
-Aprendizaje a lograr: Capacitación necesaria para desarrollar programas que utilizan búsqueda archivos binarios, utilizando diversos métodos de generación y de la información. Identificación de los archivos dentro del computador. Directorios.
+*Aprendizaje a lograr*: Capacitación necesaria para desarrollar programas que utilizan búsqueda archivos binarios, utilizando diversos métodos de generación y de la información. Identificación de los archivos dentro del computador. Directorios.
 
-## UNIDAD XI – USO DE ARCHIVOS – CORTE DE CONTROL
+## Unidad XI - Uso de Archivos - Corte de Control
 
 Objetivo: Aprender manejo integral de información para su correcto almacenamiento. Agregar Borrar, Modificar registros. Corte de Control.
+
 a. Comandos relacionados con archivos.
 b. Búsqueda de datos y relación de campos.
 c. Corte de Control, Niveles de Cortes.
 d. Características de la Información.
 e. PRACTICA: Confección de programas y practica de manejo de archivos utilizando Corte de Control.
 
-Aprendizaje a lograr: Apertura y almacenamiento de archivos, presentar informas y acumuladores con use de corte de control.  
+*Aprendizaje a lograr*: Apertura y almacenamiento de archivos, presentar informas y acumuladores con use de corte de control.
