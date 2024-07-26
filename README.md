@@ -17,30 +17,30 @@ Introducir al alumno en la programación de las computadoras.
 
 Objetivo: Aprender a efectuar un análisis de los problemas y elaborar la estrategia más adecuada para su resolución. Poder diferenciar los distintos tipos de problemas.
 
-a. Compresión de problemas. Enunciados e interpretación. Análisis de ideas. Relación entre datos, incógnitas y resultados
-b. Metodología a desarrollar para su resolución. Diseño de estrategias.
-c. Análisis de los diversos tipos de problemas. Algoritmos, concepto y definición. Características, limitaciones. Análisis del problema y diseño del algoritmo. Diseño descendente top-down.
-d. Definición y aplicación de los diagramas de lógica. Simbología.
-e. Teorema fundamental de la Programación Estructurada. Estructuras básicas. Combinación de las distintas estructuras. Precauciones.
-f. Programación modular. Técnicas de construcción y seguimiento de diagramas. Prueba y depuración de algoritmos. Juegos de prueba.
-g. PRÁCTICA: Confección de algoritmos. Juegos de prueba. Análisis de resultados. Confeccionar los diagramas de lógica de sencillos problemas de aplicación utilizando las estructuras básicas. Juego de prueba y análisis de resultados.
+ 1. Compresión de problemas. Enunciados e interpretación. Análisis de ideas. Relación entre datos, incógnitas y resultados
+ 2. Metodología a desarrollar para su resolución. Diseño de estrategias.
+ 3. Análisis de los diversos tipos de problemas. Algoritmos, concepto y definición. Características, limitaciones. Análisis del problema y diseño del algoritmo. Diseño descendente top-down.
+ 4. Definición y aplicación de los diagramas de lógica. Simbología.
+ 5. Teorema fundamental de la Programación Estructurada. Estructuras básicas. Combinación de las distintas estructuras. Precauciones.
+ 6. Programación modular. Técnicas de construcción y seguimiento de diagramas. Prueba y depuración de algoritmos. Juegos de prueba.
+ 7. PRÁCTICA: Confección de algoritmos. Juegos de prueba. Análisis de resultados. Confeccionar los diagramas de lógica de sencillos problemas de aplicación utilizando las estructuras básicas. Juego de prueba y análisis de resultados.
 
-Aprendizaje a lograr: Confeccionar los diagramas de lógica de sencillos problemas de aplicación utilizando las estructuras básicas. Juego de prueba y análisis de resultados.
+*Aprendizaje a lograr*: Confeccionar los diagramas de lógica de sencillos problemas de aplicación utilizando las estructuras básicas. Juego de prueba y análisis de resultados.
 
 ## UNIDAD III – ELEMENTOS BÁSICOS DEL LENGUAJE “C”
 
 Objetivo: Conocer los elementos básicos de un lenguaje de programación. Enseñar a confeccionar sencillos programas, codificando diagramas. Utilización de las sentencias básicas en la resolución de nuevos problemas. 
 
-a. El lenguaje “C”, breve historia y alcances. El entorno de la programación.
-b. Estructura general de un programa. El preprocesador, la función del main().
-c. Elementos básicos del lenguaje. Alfabeto. Palabras reservadas. Tipos de datos. Constantes, variables y operadores. Código ASCII.. Expresiones, diferentes tipos.
-d. Sentencias de asignación. Sintaxis, reglas y prioridades.
-e. Sentencias de entrada y salida con formato. Funciones printf(...) y scanf(..).
-f. Codificación de diagramas desarrollados como ejemplos.
-g. Confección de sencillos programas. Juegos de prueba. Depuración de programas.
-h. PRÁCTICA: Codificación en C de los diagramas de lógica. Edición, compilación y ejecución del programa. Prueba y depuración. Programación interactiva.
+ 1. El lenguaje “C”, breve historia y alcances. El entorno de la programación.
+ 2. Estructura general de un programa. El preprocesador, la función del main().
+ 3. Elementos básicos del lenguaje. Alfabeto. Palabras reservadas. Tipos de datos. Constantes, variables y operadores. Código ASCII.. Expresiones, diferentes tipos.
+ 4. Sentencias de asignación. Sintaxis, reglas y prioridades.
+ 5. Sentencias de entrada y salida con formato. Funciones printf(...) y scanf(..).
+ 6. Codificación de diagramas desarrollados como ejemplos.
+ 7. Confección de sencillos programas. Juegos de prueba. Depuración de programas.
+ 8. PRÁCTICA: Codificación en C de los diagramas de lógica. Edición, compilación y ejecución del programa. Prueba y depuración. Programación interactiva.
 
-Aprendizaje a lograr: Estar capacitado para desarrollar sencillos programas en lenguaje C utilizando las sentencias básicas del lenguaje. Corrección de errores.
+*Aprendizaje a lograr*: Estar capacitado para desarrollar sencillos programas en lenguaje C utilizando las sentencias básicas del lenguaje. Corrección de errores.
 
 ## UNIDAD IV – ESTRUCTURAS DE CONCATENACION
 
@@ -53,7 +53,7 @@ d. Casos típicos de error en ciertas operaciones. Errores de almacenamiento.
 e. Sentencias de comentario. Estilo en la programación.
 f. PRÁCTICA: Confección de programas utilizando las funciones de biblioteca. Pruebas de exceso de almacenamiento. Errores posibles en ciertas funciones.
 
-Aprendizaje a lograr: Estar capacitado para desarrollar programas en lenguaje C utilizando las funciones de biblioteca. Estudio y corrección de errores.
+*Aprendizaje a lograr*: Estar capacitado para desarrollar programas en lenguaje C utilizando las funciones de biblioteca. Estudio y corrección de errores.
 
 ## UNIDAD V – ESTRUCTURAS DE SELECCIÓN SIMPLE Y MULTIPLE
 
