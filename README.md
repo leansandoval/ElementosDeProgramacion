@@ -1,5 +1,5 @@
 # Elementos de Programación
-Ejercicios resueltos en C de la materia Elementos de Programacion (2009). Realizados en el Primer Cuatrimestre 2020.
+Ejercicios resueltos en C de la materia Elementos de Programacion (1024). Realizados en el Primer Cuatrimestre 2020.
 
 ## Unidad I - Introducción General a la Programación
 
