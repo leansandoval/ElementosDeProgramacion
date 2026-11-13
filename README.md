@@ -13,6 +13,8 @@
 
 ## 📑 Índice
 - [Información de la Asignatura](#info)
+- [Trayecto - Programación](#trayecto)
+- [Docentes](#docentes)
 - [Contenidos](#contenidos)
   - [Unidad I: Introducción General a la Programación](#unidad-1)
   - [Unidad II: Interpretación y Diagramación](#unidad-2)
@@ -32,11 +34,24 @@
 
 <a id="info"></a>
 ## ℹ️ Información de la Asignatura
+* **Carrera**: Ingeniería en Informática
 * **Materia**: Elementos de Programación (1024)
 * **Cuatrimestre**: Primer Cuatrimestre
 * **Año**: 2020
-* **Año Académico**: Primer Año
-* **Lenguaje Principal**: C
+
+<a id="trayecto"></a>
+## 💻 Trayecto - Programación
+* **Año Académico**: Primer Año - Primer / Segundo Cuatrimestre
+* **Responsable / Jefe de cátedra**: Dr. Pablo Vera
+* **Carga Horaria Semanal**: 8 hs
+* **Carga Horaria Total**: 128 hs
+* **Modalidad**: Virtual
+
+<a id="docentes"></a>
+## 👨‍🏫 Docentes
+* Garcia, Gabriel Anibal
+* Mirabelli, Jorge Gabriel
+* Varando, Maria Eugenia
 
 ---
 
