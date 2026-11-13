@@ -1,5 +1,5 @@
 <div align="center">
-  <h1></> Elementos de Programación</h1>
+  <h1>🖥️ Elementos de Programación</h1>
   <p><em>Ejercicios resueltos en C de la materia Elementos de Programación (1024) - 1C 2020 - UNLaM.</em></p>
 
   <!-- Badges -->
@@ -292,7 +292,7 @@
 ## 🛠️ Herramientas Utilizadas
 * **Lenguaje C**: Lenguaje de programación estructurada utilizado en toda la cursada.
 * **GCC / MinGW**: Compilador recomendado para transformar el código fuente en ejecutables.
-* **IDE (Entorno de Desarrollo)**: Visual Studio Code, Code::Blocks, o Dev-C++ para la edición y depuración de los ejercicios.
+* **IDE (Entorno de Desarrollo)**: Code::Blocks para la edición y depuración de los ejercicios.
 
 ---
 
