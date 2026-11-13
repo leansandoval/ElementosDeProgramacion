@@ -42,7 +42,7 @@
 <a id="trayecto"></a>
 ## 💻 Trayecto - Programación
 * **Año Académico**: Primer Año - Primer / Segundo Cuatrimestre
-* **Responsable / Jefe de cátedra**: Dr. Pablo Vera
+* **Responsable / Jefe de cátedra**: Vera, Pablo
 * **Carga Horaria Semanal**: 8 hs
 * **Carga Horaria Total**: 128 hs
 * **Modalidad**: Virtual
