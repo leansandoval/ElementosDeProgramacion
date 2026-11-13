@@ -15,6 +15,8 @@ Ejercicios resueltos en C de la materia Elementos de Programacion (1024) - 1C 20
 
 ## Unidad II - Interpretación de Problemas - Diagramación Estructurada - Estrategias
 
+![Diagramas de Programación](https://instagram.faep28-1.fna.fbcdn.net/v/t39.30808-6/654591028_1217137363776272_5943606473835098178_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzg1ODg3MTU0OTQyMDQzOTQ4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA2OC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=ZNdYfSupG1QQ7kNvwG8eRNj&_nc_oc=Adr-VSO3T-4-9yp8YheL3gINRXHQZ_yjHqR5k0u-X3nS3phOgPzyhaMXIFpjUqTyz85xE6-a_vYry1KBPfbEHswF&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-1.fna&_nc_gid=N8cpnmdYyu4VWIeIjlOe6Q&_nc_ss=7a22e&oh=00_AQSE_juqjsfGIuFP3LJda92SBd0eXbgfxbZRUzovwQDfUw&oe=6AFC93A2)
+
 **Objetivo**: Aprender a efectuar un análisis de los problemas y elaborar la estrategia más adecuada para su resolución. Poder diferenciar los distintos tipos de problemas.
 
  1. Compresión de problemas. Enunciados e interpretación. Análisis de ideas. Relación entre datos, incógnitas y resultados
@@ -57,6 +59,8 @@ Ejercicios resueltos en C de la materia Elementos de Programacion (1024) - 1C 20
 
 ## Unidad V – Estructuras de Selección Simple y Multiple
 
+![Estructuras de Control en Programación](https://instagram.faep28-2.fna.fbcdn.net/v/t39.30808-6/652621151_1212798014210207_8753713135418304629_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=Mzg1NDkzMDA4OTAxMjQwOTgxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuOTk3LnNkci5yZWd1bGFyX3Bob3RvLkMyIn0%3D&_nc_ohc=ngU1A5zDaGoQ7kNvwEs-WuO&_nc_oc=AdpIRINI4qNTNCsx6_vuQGDtCgNX3Naj5L5yjTohREaaKLouzznKDtOhOFkg3yk3MZ8cH2FnJhmMkmu-taOEDNsN&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-2.fna&_nc_gid=FtC4QKseT0312E7xrip6rQ&_nc_ss=7a22e&oh=00_AQR-BNhaaseFhnpe3toTzBcW0Aa5aD2BZ2XoeliQsyMXUA&oe=6AFC8B37)
+
 **Objetivo**: Conocer y aplicar las estructuras de selección simple y de selección múltiple. Poder aplicar estas estructuras y sus combinaciones en la solución de los problemas y su posterior codificación en lenguaje C. Conocer y aplicar los operadores lógicos.
 
  1. Sentencia de selección simple, if.(...). Sentencias anidadas. Operador condicional.
@@ -70,6 +74,8 @@ Ejercicios resueltos en C de la materia Elementos de Programacion (1024) - 1C 20
 **Aprendizaje a lograr**: Estar capacitado para desarrollar programas en lenguaje C utilizando las estructuras de selección simple y múltiple, con todas sus variantes. Seguimiento de programas con los juegos de prueba. Análisis de variantes.
 
 ## Unidad VI – Estructuras de Iteración
+
+![Bucle For en Programacion](https://instagram.fepa2-1.fna.fbcdn.net/v/t39.30808-6/690296562_122277561134189612_2347002485238568907_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=Mzg5NDk3MTUxMTg4Mjk3NTI1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=vgfGWVXoAZgQ7kNvwG_wDFQ&_nc_oc=AdqA5auOZeuaXQUiTWSsOZBTxElSBRsysGZe6fTEStdXZbmjfGURXEi75mYtyHVyZa97bxyOk3GIqnVqlWZAei48&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa2-1.fna&_nc_gid=qFLX4EBG0zhlPsx1XW2-4g&_nc_ss=7a22e&oh=00_AQQLo0xpNcTCptqUVpZTgAufnRAX_WK7nDUggIZ7d4aIRg&oe=6AFC8B76)
 
 **Objetivo**: Adquirir la capacidad para aplicar en la solución de los problemas las estructuras iterativas, en sus variantes. Poder programar algoritmos de búsqueda de máximos y mínimos. Aprender el uso de la pantalla graficando caracteres.
 
