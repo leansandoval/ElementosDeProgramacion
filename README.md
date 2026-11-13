@@ -30,12 +30,6 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/leansandoval/ElementosDeProgramacion" target="_blank">🔗 <strong>Ver Repositorio del Proyecto</strong></a>
-</div>
-
-<br>
-
 <a id="info"></a>
 ## ℹ️ Información de la Asignatura
 * **Materia**: Elementos de Programación (1024)
