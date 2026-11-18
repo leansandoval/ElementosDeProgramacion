@@ -62,7 +62,7 @@
 ### Unidad I - Introducción General a la Programación
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2Xp2Pir5Er8ufCRGNj11uDdiUgdIg4nQyNCLAYJFB9rXOkI_H7usdY&s=10" alt="Definición de Programa" width="450" />
+  <img width="700" alt="Definición de Programa" src="https://github.com/user-attachments/assets/ea7d9c30-cc21-4848-a704-2b2aab775796" />
   <br>
   <sup><em>Concepto y principio de funcionamiento de un programa</em></sup>
 </div>
@@ -82,7 +82,7 @@
 ### Unidad II - Interpretación de Problemas - Diagramación Estructurada - Estrategias
 
 <div align="center">
-  <img src="https://instagram.faep28-1.fna.fbcdn.net/v/t39.30808-6/654591028_1217137363776272_5943606473835098178_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzg1ODg3MTU0OTQyMDQzOTQ4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA2OC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=ZNdYfSupG1QQ7kNvwG8eRNj&_nc_oc=Adr-VSO3T-4-9yp8YheL3gINRXHQZ_yjHqR5k0u-X3nS3phOgPzyhaMXIFpjUqTyz85xE6-a_vYry1KBPfbEHswF&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-1.fna&_nc_gid=N8cpnmdYyu4VWIeIjlOe6Q&_nc_ss=7a22e&oh=00_AQSE_juqjsfGIuFP3LJda92SBd0eXbgfxbZRUzovwQDfUw&oe=6AFC93A2" alt="Diagramas de Programación" width="450" />
+  <img width="700" alt="Diagramas de Programación" src="https://github.com/user-attachments/assets/adb52cd9-538d-4d59-8b21-217e804e5c49" />
   <br>
   <sup><em>Diagramación estructurada y flujo de procesos</em></sup>
 </div>
@@ -104,7 +104,7 @@
 ### Unidad III - Elementos Básicos del Lenguaje “C”
 
 <div align="center">
-  <img src="https://image3.slideserve.com/7058882/estructura-de-un-programa-n.jpg" alt="Estructura de un Programa en C" width="450" />
+  <img width="700" alt="Estructura de un Programa en C" src="https://github.com/user-attachments/assets/78fe81e9-70b5-4ef3-9dee-a5459d9ab0a3" />
   <br>
   <sup><em>Estructura básica de un archivo fuente en C</em></sup>
 </div>
@@ -127,7 +127,7 @@
 ### Unidad IV – Estructuras de Concatenación
 
 <div align="center">
-  <img src="https://image.slidesharecdn.com/lenguajec-190218163448/75/Lenguaje-c-1-2048.jpg" alt="Operadores en C" width="450" />
+  <img width="700" alt="Operadores en C" src="https://github.com/user-attachments/assets/2ee371dd-5be4-4991-a468-3384b7740fe7" />
   <br>
   <sup><em>Variables, acumuladores y bibliotecas estándar</em></sup>
 </div>
@@ -148,7 +148,7 @@
 ### Unidad V – Estructuras de Selección Simple y Múltiple
 
 <div align="center">
-  <img src="https://instagram.faep28-2.fna.fbcdn.net/v/t39.30808-6/652621151_1212798014210207_8753713135418304629_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=Mzg1NDkzMDA4OTAxMjQwOTgxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuOTk3LnNkci5yZWd1bGFyX3Bob3RvLkMyIn0%3D&_nc_ohc=ngU1A5zDaGoQ7kNvwEs-WuO&_nc_oc=AdpIRINI4qNTNCsx6_vuQGDtCgNX3Naj5L5yjTohREaaKLouzznKDtOhOFkg3yk3MZ8cH2FnJhmMkmu-taOEDNsN&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-2.fna&_nc_gid=FtC4QKseT0312E7xrip6rQ&_nc_ss=7a22e&oh=00_AQR-BNhaaseFhnpe3toTzBcW0Aa5aD2BZ2XoeliQsyMXUA&oe=6AFC8B37" alt="Estructuras de Control en Programación" width="450" />
+  <img width="700" alt="Estructuras de Control en Programación" src="https://github.com/user-attachments/assets/298e37f4-3f48-4c62-b82d-3e22ada14dc2" />
   <br>
   <sup><em>Estructuras if, else if y switch</em></sup>
 </div>
@@ -170,7 +170,7 @@
 ### Unidad VI – Estructuras de Iteración
 
 <div align="center">
-  <img src="https://instagram.fepa2-1.fna.fbcdn.net/v/t39.30808-6/690296562_122277561134189612_2347002485238568907_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=Mzg5NDk3MTUxMTg4Mjk3NTI1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=vgfGWVXoAZgQ7kNvwG_wDFQ&_nc_oc=AdqA5auOZeuaXQUiTWSsOZBTxElSBRsysGZe6fTEStdXZbmjfGURXEi75mYtyHVyZa97bxyOk3GIqnVqlWZAei48&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa2-1.fna&_nc_gid=qFLX4EBG0zhlPsx1XW2-4g&_nc_ss=7a22e&oh=00_AQQLo0xpNcTCptqUVpZTgAufnRAX_WK7nDUggIZ7d4aIRg&oe=6AFC8B76" alt="Bucle For en Programacion" width="450" />
+  <img width="700" alt="Bucle For en Programacion" src="https://github.com/user-attachments/assets/feacd713-8fad-4923-afde-cc6c467e9b07" />
   <br>
   <sup><em>Manejo de ciclos definidos e indefinidos</em></sup>
 </div>
@@ -210,13 +210,17 @@
 ### Unidad VIII - Datos Estructurados - Arrays
 
 <div align="center">
-  <img src="https://ik.imagekit.io/upgrad1/abroad-images/imageCompo/images/String_Handling_Header_Files_in_CPQ3HR8.png?pr-true" alt="Librerías mas Populares" width="450" />
+  <img width="700" alt="Librerías mas Populares" src="https://ik.imagekit.io/upgrad1/abroad-images/imageCompo/images/String_Handling_Header_Files_in_CPQ3HR8.png" />
   <br>
   <sup><em>Librerías para el manejo de cadenas</em></sup>
   <br><br>
-  <img src="https://scontent.faep28-2.fna.fbcdn.net/v/t39.99422-6/721464271_2159782411469168_2443391448957588931_n.png?stp=dst-jpg_tt6&cstp=mx1122x1402&ctp=s1122x1402&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHf1OpyjpZJSXjIsGq2M2qiN1we8ngo3GY3XB7yeCjcZmrhB7GCMrYUlbRnIh4u9k8T-r6Kp0LYdIG2tUMozVVG&_nc_ohc=lajUtC3bGNwQ7kNvwFTVqPP&_nc_oc=Adrai-LCG9y1OteEN461MLa4PaIHLNoXmpF27TvJ5CY2Vm6BfcdCCTzGLUAOPm3cT4zGhev2RZwGlcVuL5YSVqvu&_nc_zt=14&_nc_ht=scontent.faep28-2.fna&_nc_gid=gqmozzpw_BZxuBiuChMvHg&_nc_ss=7b2a8&oh=00_AQQu8MpYDHevzee_c-QQny38seT-6bfFl7NEdpSwDDCBjQ&oe=6AFCD41D" alt="Matrices Bidimensionales" width="450" />
+  <img width="700" alt="672686980_122275308026189612_7803767909097451164_n" src="https://github.com/user-attachments/assets/6445a410-c0fa-4b09-a48a-90005b599621" />
   <br>
-  <sup><em>Estructura de arreglos y matrices bidimensionales</em></sup>
+  <sup><em>Estructura de arreglos</em></sup>
+  <br><br>
+  <img width="700" alt="672687655_122275309556189612_7444859872307674060_n" src="https://github.com/user-attachments/assets/c8021a9f-91e6-4ba9-89a4-c275ea9865d7" />
+  <br>
+  <sup><em>Estructura de matrices bidimensionales</em></sup>
 </div>
 <br>
 
@@ -237,7 +241,7 @@
 ### Unidad IX - Estructuras de Datos
 
 <div align="center">
-  <img src="https://sudoflare.com/wp-content/uploads/2026/05/c-structs-featured.png" alt="Estructuras en C" width="450" />
+  <img width="700" alt="Estructuras en C" src="https://github.com/user-attachments/assets/88757b7c-cdb6-4808-99af-5ecc79abac8d" />
   <br>
   <sup><em>Definición y uso de la sentencia struct</em></sup>
 </div>
@@ -258,7 +262,7 @@
 ### Unidad X - Archivos
 
 <div align="center">
-  <img src="https://i.ytimg.com/vi/W5VPiZnlXiw/maxresdefault.jpg" alt="Modos de Apertura" width="450" />
+  <img width="700" alt="Modos de Apertura" src="https://github.com/user-attachments/assets/c580342a-cc6d-413c-8f71-2fa468cb992e" />
   <br>
   <sup><em>Modos básicos de apertura (r, w, a)</em></sup>
 </div>
@@ -279,7 +283,7 @@
 ### Unidad XI - Uso de Archivos - Corte de Control
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5612AQHgvDtLKS8LOA/article-cover_image-shrink_720_1280/B56Z9Td1vZJoAQ-/0/1783811763941?e=1796256000&v=beta&t=OFg5aFQ5ZykmZOHszMymQsP5RzQl8xCp6lIYVaoa798" alt="Búsqueda de Datos en Archivos" width="450" />
+  <img width="700" alt="Búsqueda de Datos en Archivos" src="https://github.com/user-attachments/assets/bbc389bd-926e-48d4-81bd-92c3387ae064" />
   <br>
   <sup><em>Lógica de procesamiento y corte de control</em></sup>
 </div>
